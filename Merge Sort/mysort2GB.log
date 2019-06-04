@@ -1,0 +1,20 @@
+javac MySort.java
+MySort begins... 
+Number of threads used:4
+Input file name is:/input/data-2GB.in
+Currently,free RAM is:126206592
+chunksize:63103296
+1.Splitting Files into chunks
+Unsorted chunks created and multithreading starts
+Sorting of unsorted files begins
+Now Sorted Chunks will Sort and Merge into 1 File using Threads
+
+Multi-Threading started...
+
+Merging Completed and final output saved
+Time elapsed in seconds for the sorting is: 115
+Validation of MySort begins...
+Records: 20000000
+Checksum: 989590f294e7ea
+Duplicate keys: 0
+SUCCESS - all records are in order

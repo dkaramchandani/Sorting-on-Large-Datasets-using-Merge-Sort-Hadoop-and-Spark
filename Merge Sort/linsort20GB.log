@@ -1,0 +1,14 @@
+Linux sorting begins...
+
+real	6m14.121s
+user	5m55.560s
+sys	1m19.084s
+Validation of Linux sorting begins...
+Records: 200000000
+Checksum: 5f5cc94518a4203
+Duplicate keys: 0
+SUCCESS - all records are in order
+
+real	1m21.380s
+user	0m53.352s
+sys	0m4.120s
